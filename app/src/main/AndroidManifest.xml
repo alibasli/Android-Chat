@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.fidanplay.chatforgameofwar" >
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.fidanplay.chatforgameofwar.MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.fidanplay.chatforgameofwar.Login"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="com.earm.chatforcoc.Login" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.fidanplay.chatforgameofwar.Profile"
+            android:label="@string/app_name" >
+
+            <intent-filter>
+                <action android:name="com.earm.chatforcoc.Profile" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.fidanplay.chatforgameofwar.MainMessage"
+            android:label="@string/app_name"
+            android:parentActivityName="com.fidanplay.chatforgameofwar.MainUserMessage">
+            <intent-filter>
+                <action android:name="com.earm.chatforcoc.mainMassega" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.fidanplay.chatforgameofwar.MainUserMessage"
+            android:label="@string/app_name"
+            android:parentActivityName="com.fidanplay.chatforgameofwar.Profile">
+            <intent-filter>
+                <action android:name="com.earm.chatforcoc.MainUserMessage" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+        <activity
+            android:name="com.google.android.gms.ads.AdActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize" />
+    </application>
+
+</manifest>

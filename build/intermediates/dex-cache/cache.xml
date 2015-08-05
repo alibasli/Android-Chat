@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/ali/AndroidStudioProjects/ChatforGOW/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7215ac1f2fca947b9415a6ee2a1bf991364aab24">
+        <dex dex="/home/ali/AndroidStudioProjects/ChatforGOW/app/build/intermediates/pre-dexed/debug/classes-0d51a95ff0ab6e2f66504013628d5dcda0d3963a.jar" />
+    </item>
+    <item
+        jar="/home/ali/AndroidStudioProjects/ChatforGOW/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9c9dea9e85aceb09d95df5e6f7bc8a43fc286068">
+        <dex dex="/home/ali/AndroidStudioProjects/ChatforGOW/app/build/intermediates/pre-dexed/debug/classes-bbf08209826bc511d5e3df7976cefc4c6921d6fb.jar" />
+    </item>
+    <item
+        jar="/home/ali/AndroidStudioProjects/ChatforGOW/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b48d5c51a9a9e329005106b4667f54948de4d4d8">
+        <dex dex="/home/ali/AndroidStudioProjects/ChatforGOW/app/build/intermediates/pre-dexed/debug/classes-c2943b7124d56e98e25bb8202a3ff2e18614e076.jar" />
+    </item>
+    <item
+        jar="/home/ali/AndroidStudioProjects/ChatforGOW/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/libs/internal_impl-22.1.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="/home/ali/AndroidStudioProjects/ChatforGOW/app/build/intermediates/pre-dexed/debug/internal_impl-22.1.1-c06ab32a4025c6dc60f29fb20ece3315aeb10bba.jar" />
+    </item>
+    <item
+        jar="/home/ali/AndroidStudioProjects/ChatforGOW/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f2f7ec211ce4d244ee97a57523eeb4526dc3cf8a">
+        <dex dex="/home/ali/AndroidStudioProjects/ChatforGOW/app/build/intermediates/pre-dexed/debug/classes-1235e714c439843d721f808aee9023ffd68fa00d.jar" />
+    </item>
+    <item
+        jar="/home/ali/AndroidStudioProjects/ChatforGOW/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0708ef60917bf94913fe9ef972a655b99462dca7">
+        <dex dex="/home/ali/AndroidStudioProjects/ChatforGOW/app/build/intermediates/pre-dexed/debug/classes-b8afa6c23591de2ffe77203bd92390fe16e7a220.jar" />
+    </item>
+    <item
+        jar="/home/ali/AndroidStudioProjects/ChatforGOW/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e5b9f5b0aa8dee788beb63d23832cb29ce771343">
+        <dex dex="/home/ali/AndroidStudioProjects/ChatforGOW/app/build/intermediates/pre-dexed/debug/classes-3db6e0603b618a401adab3ef3dfebd4173bda260.jar" />
+    </item>
+    <item
+        jar="/home/ali/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/22.1.1/support-annotations-22.1.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
+        <dex dex="/home/ali/AndroidStudioProjects/ChatforGOW/app/build/intermediates/pre-dexed/debug/support-annotations-22.1.1-c01303d5b19964eb7aad48f53f890f869d90926a.jar" />
+    </item>
+    <item
+        jar="/home/ali/AndroidStudioProjects/ChatforGOW/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3b4ff5c39dace8f3b4ab4cab8191785547a0815f">
+        <dex dex="/home/ali/AndroidStudioProjects/ChatforGOW/app/build/intermediates/pre-dexed/debug/classes-1dd71fd29f72675536685c15ab74d852cd20dcea.jar" />
+    </item>
+    <item
+        jar="/home/ali/AndroidStudioProjects/ChatforGOW/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="/home/ali/AndroidStudioProjects/ChatforGOW/app/build/intermediates/pre-dexed/debug/classes-65951da9b9d5f41a1a8608b8b8f9014d81f11612.jar" />
+    </item>
+    <item
+        jar="/home/ali/.gradle/caches/modules-2/files-2.1/org.java-websocket/Java-WebSocket/1.3.0/db2658f013fb163de4a99274c2eb9e17efe535d2/Java-WebSocket-1.3.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="db2658f013fb163de4a99274c2eb9e17efe535d2">
+        <dex dex="/home/ali/AndroidStudioProjects/ChatforGOW/app/build/intermediates/pre-dexed/debug/Java-WebSocket-1.3.0-3dd2dbf639860469547ad8affd8ffb7620bd032d.jar" />
+    </item>
+    <item
+        jar="/home/ali/AndroidStudioProjects/ChatforGOW/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="fe3e0c6de7cceed888b277487238b6af9a1cc299">
+        <dex dex="/home/ali/AndroidStudioProjects/ChatforGOW/app/build/intermediates/pre-dexed/debug/classes-5c95cf720a3377e772ca8cf558f451d5a187c509.jar" />
+    </item>
+    <item
+        jar="/home/ali/AndroidStudioProjects/ChatforGOW/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="565a01f90f1529f73362707c4c185d0623a68782">
+        <dex dex="/home/ali/AndroidStudioProjects/ChatforGOW/app/build/intermediates/pre-dexed/debug/classes-36002ff20b8e2b480ac65a7ff75364f1eea610ac.jar" />
+    </item>
+    <item
+        jar="/home/ali/AndroidStudioProjects/ChatforGOW/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e35fae1b377c23aa5fd2d309a190c2d0f73d54ec">
+        <dex dex="/home/ali/AndroidStudioProjects/ChatforGOW/app/build/intermediates/pre-dexed/debug/classes-0c02f8fd8e611e9cc06c734ad13e425831495a54.jar" />
+    </item>
+    <item
+        jar="/home/ali/AndroidStudioProjects/ChatforGOW/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3988694bf9d8186ff97ad5cdfa4ed88b5010fe08">
+        <dex dex="/home/ali/AndroidStudioProjects/ChatforGOW/app/build/intermediates/pre-dexed/debug/classes-fda2153ebbe4a8f792d2aa3513ed8b3b020b9895.jar" />
+    </item>
+    <item
+        jar="/home/ali/AndroidStudioProjects/ChatforGOW/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="6046e5cdaf799120b7c56a5a061d80e8854c4d34">
+        <dex dex="/home/ali/AndroidStudioProjects/ChatforGOW/app/build/intermediates/pre-dexed/debug/classes-6de15f125a01e3a173681cc80d0d182d642aee23.jar" />
+    </item>
+    <item
+        jar="/home/ali/AndroidStudioProjects/ChatforGOW/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4f4fe3c23776540625f3c2844152a7510fddf9f1">
+        <dex dex="/home/ali/AndroidStudioProjects/ChatforGOW/app/build/intermediates/pre-dexed/debug/classes-960ee474e2e623149419bf7d6860c38ebb6285cf.jar" />
+    </item>
+    <item
+        jar="/home/ali/AndroidStudioProjects/ChatforGOW/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="5ea948d825957be6c4358c48422bee60eef2d487">
+        <dex dex="/home/ali/AndroidStudioProjects/ChatforGOW/app/build/intermediates/pre-dexed/debug/classes-ec53a35126b5d59e86b62c4f9b589a116971d41e.jar" />
+    </item>
+    <item
+        jar="/home/ali/.gradle/caches/modules-2/files-2.1/com.github.nkzawa/socket.io-client/0.3.0/8dfd7cf8d1124acb027b3ffd53eafcc518af3ba9/socket.io-client-0.3.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="8dfd7cf8d1124acb027b3ffd53eafcc518af3ba9">
+        <dex dex="/home/ali/AndroidStudioProjects/ChatforGOW/app/build/intermediates/pre-dexed/debug/socket.io-client-0.3.0-5853dfc4302a9038ae9c83edf1b6e3d4e59624df.jar" />
+    </item>
+    <item
+        jar="/home/ali/AndroidStudioProjects/ChatforGOW/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b2c07cdb814fe988ad05f7b4d767a841514a5991">
+        <dex dex="/home/ali/AndroidStudioProjects/ChatforGOW/app/build/intermediates/pre-dexed/debug/classes-c5829d45a0f6a07c717d8f889b19054e9c7b7b95.jar" />
+    </item>
+    <item
+        jar="/home/ali/AndroidStudioProjects/ChatforGOW/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="/home/ali/AndroidStudioProjects/ChatforGOW/app/build/intermediates/pre-dexed/debug/classes-3fcc601ed8d55a33d4e12830c8acf0569d32c556.jar" />
+    </item>
+    <item
+        jar="/home/ali/AndroidStudioProjects/ChatforGOW/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="bb36004beb02b69562cbec9aa7d6a3cf16bf5d1b">
+        <dex dex="/home/ali/AndroidStudioProjects/ChatforGOW/app/build/intermediates/pre-dexed/debug/classes-1b41b20d5f8eea4e4e59638b696cb05989ae6c2f.jar" />
+    </item>
+    <item
+        jar="/home/ali/AndroidStudioProjects/ChatforGOW/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a0ce76dfaccbfbd6c551ed2174280aaabe60fe47">
+        <dex dex="/home/ali/AndroidStudioProjects/ChatforGOW/app/build/intermediates/pre-dexed/debug/classes-71a505888750f911a7af5824fda9673a86d0d1d8.jar" />
+    </item>
+    <item
+        jar="/home/ali/AndroidStudioProjects/ChatforGOW/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="59652857a825fff0de62166fca1bc9553cc01abb">
+        <dex dex="/home/ali/AndroidStudioProjects/ChatforGOW/app/build/intermediates/pre-dexed/debug/classes-c3bd9bf4e81d44012bd728b4e325714d75febbdc.jar" />
+    </item>
+    <item
+        jar="/home/ali/.gradle/caches/modules-2/files-2.1/com.github.nkzawa/engine.io-client/0.3.1/3ca9d0d53a27ecb88538ed874be417cfa827db5d/engine.io-client-0.3.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3ca9d0d53a27ecb88538ed874be417cfa827db5d">
+        <dex dex="/home/ali/AndroidStudioProjects/ChatforGOW/app/build/intermediates/pre-dexed/debug/engine.io-client-0.3.1-36b93f72975e68d24d95ccb61a777a7fbaef45bf.jar" />
+    </item>
+    <item
+        jar="/home/ali/AndroidStudioProjects/ChatforGOW/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appstate/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0180d031a7b54dabb93b4af3869468b55dc938bd">
+        <dex dex="/home/ali/AndroidStudioProjects/ChatforGOW/app/build/intermediates/pre-dexed/debug/classes-63f5339fae613a9a3899c04798f1fb0d831f677c.jar" />
+    </item>
+    <item
+        jar="/home/ali/AndroidStudioProjects/ChatforGOW/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e5bf453b070c1e39297986144960e45afa0fdfad">
+        <dex dex="/home/ali/AndroidStudioProjects/ChatforGOW/app/build/intermediates/pre-dexed/debug/classes-6613a2bef4939affc421e26a1d810ff829f6386e.jar" />
+    </item>
+    <item
+        jar="/home/ali/AndroidStudioProjects/ChatforGOW/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/21.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="efeda77c808750cb670ee9c48d8a1835d89dbcb2">
+        <dex dex="/home/ali/AndroidStudioProjects/ChatforGOW/app/build/intermediates/pre-dexed/debug/classes-22fdf99021a3000041ed0c66fc59392df3917588.jar" />
+    </item>
+
+</items>
